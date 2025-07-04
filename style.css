@@ -7,8 +7,10 @@ body {
 
 header {
     font-size: 60px;
+    padding: 6px;
     text-align: center;
 }
+
 h1 {
     font-size: 30px;
     border-bottom: double 5px palegreen;
@@ -19,6 +21,7 @@ p {
     font-size: 20px;
     text-align: center;
 }
+
 inframe, video {
     display: block;
     margin: 0 auto;
